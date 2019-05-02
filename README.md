@@ -8,4 +8,4 @@ selection instrument.”
 
 (3) “Add a new convex pentagon selection instrument feature for selecting images. This new instrument shall meet all the features of the original selection instrument. You must use proper icons and shortcut for this selection instrument.”
 
-I implemented those chare request for my software engineering class.
+I implemented those change requests for my software engineering class.
