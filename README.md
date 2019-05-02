@@ -1,5 +1,5 @@
 # Software-Engineering
-CHANGE REQUEST
+# CHANGE REQUEST
 (1) Change Request: “Add  a  slider  bar  to  the  bottom  of  the  application  for  controlling  zoom in/out.”
 
 (2) : “Add a new tool to draw regular or irregular Pentagons. After writing the 
