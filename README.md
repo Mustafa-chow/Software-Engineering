@@ -12,5 +12,6 @@ selection instrument.”
 Report: https://github.com/Mustafa-chow/Software-Engineering/blob/master/Mustafa_Chowdhury_CR02.pdf
 
 (3) “Add a new convex pentagon selection instrument feature for selecting images. This new instrument shall meet all the features of the original selection instrument. You must use proper icons and shortcut for this selection instrument.”
+Report: https://github.com/Mustafa-chow/Software-Engineering/blob/master/Mustafa_Chowdhruy_CR03.pdf
 
 I implemented those change requests for my software engineering class.
