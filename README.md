@@ -1,5 +1,7 @@
 # Software-Engineering
-# CHANGE REQUEST
+I worked with three members in a group; where we all had diffrent change request. But I had to commuicate to resolve confict issues while push our work on the repository.
+
+CHANGE REQUEST
 
 (1) Change Request: “Add  a  slider  bar  to  the  bottom  of  the  application  for  controlling  zoom in/out.”
 
