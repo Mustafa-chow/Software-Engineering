@@ -1,5 +1,7 @@
 # Software-Engineering
-I worked with three members in a group; where we all had diffrent change request. But I had to commuicate to resolve confict issues while push our work on the repository.
+I worked with three members in a group; where we all had diffrent change request. But I had to commuicate to resolve conflict issues while push our work on the repository.
+
+
 
 CHANGE REQUEST
 
@@ -14,4 +16,4 @@ Report: https://github.com/Mustafa-chow/Software-Engineering/blob/master/Mustafa
 (3) “Add a new convex pentagon selection instrument feature for selecting images. This new instrument shall meet all the features of the original selection instrument. You must use proper icons and shortcut for this selection instrument.”
 Report: https://github.com/Mustafa-chow/Software-Engineering/blob/master/Mustafa_Chowdhruy_CR03.pdf
 
-I implemented those change requests for my software engineering class.
+I implemented those change requests for my software engineering class. First I performed extract significat concept from change request to identify the location of the change, afterthat I performed impact analysis to determine which classes are impacted by the change after that I perfomed change progaration and then verification of the change and make sure other functionatilies doesn't impacted by the change.
